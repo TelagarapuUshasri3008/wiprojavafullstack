@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<img alt="DogImage"  src="https://i.pinimg.com/564x/ce/80/f5/ce80f5cdff3aa5ec3eb7072348d41075.jpg" 
+		width="200" height="200" style="border:2px solid black">
+</body>
+</html>
